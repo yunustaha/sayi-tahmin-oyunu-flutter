@@ -1,7 +1,5 @@
 # flutter_application_sayi_tahmin
 
-A new Flutter project.
-
 Tamamen Flutter ile kendi yazdığım basti sayı tahmin oyunu.
 
 ![Giris](https://user-images.githubusercontent.com/48367134/118890311-2022e700-b907-11eb-87e6-8c66c654242d.jpg)
