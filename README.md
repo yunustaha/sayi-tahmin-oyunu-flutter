@@ -1,6 +1,11 @@
 # flutter_application_sayi_tahmin
 
-Tamamen Flutter ile kendi yazdığım basti sayı tahmin oyunu.
+Flutter ile yazdığım sayı tahmin uygulaması.
+Bu uygulamada 10'arlı bir şekilde 100(dahil)'e kadar rasgele oluşturulan sayıyı, kullanıcı 4 hakkını ve verilen ipuçları kullanarak ile bulmaya çalışacaktır.
+
+
+## Uygulama Görünüleri
+
 
 ![Giris](https://user-images.githubusercontent.com/48367134/118890311-2022e700-b907-11eb-87e6-8c66c654242d.jpg)
 
