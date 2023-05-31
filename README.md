@@ -1,7 +1,7 @@
 # flutter_application_sayi_tahmin
 
 Flutter ile yazdığım sayı tahmin uygulaması.
-Bu uygulamada 10'arlı bir şekilde 100(dahil)'e kadar rasgele oluşturulan sayıyı, kullanıcı 4 hakkını ve verilen ipuçlarını kullanarak ile bulmaya çalışacaktır.
+Bu uygulamada 10'arlı bir şekilde 100'e kadar rasgele oluşturulan sayıyı kullanıcının 4 hakkı ve verilen ipuçlarını kullanarak bulmaya çalışması amaçlamıştır.
 
 
 ## Uygulama Görünüleri
